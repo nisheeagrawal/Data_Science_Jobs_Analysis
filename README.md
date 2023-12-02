@@ -1,4 +1,4 @@
-# Data Science Job Salaries Analysis and Predict by Nishee Agrawal
+# Data Science Job Salaries Analysis and Prediction by Nishee Agrawal
 
 According to the 2020 LinkedIn U.S. Emerging Jobs Report, the field of data science has witnessed significant and sustained growth in recent years. In virtually every industry, there is a high demand for data science professionals as organizations strive to capitalize on their data for informed decision-making. However, the supply of data professionals has not kept pace with this demand, leading to intense competition among companies seeking to hire these experts, especially when compared to other tech sectors. Consequently, employers are offering generous salaries to attract and retain skilled data scientists.
 
